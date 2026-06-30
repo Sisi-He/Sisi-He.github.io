@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sisi He"
-description              : "Undergraduate Researcher in HCI | XR · AI · Everyday Computing "
+description              : "Undergraduate Researcher in HCI | Human-AI Interaction · Intelligent UI · XR"
 repository               : "Sisi-He/Sisi-He.github.io" 
 google_scholar_stats_use_cdn : true
 
@@ -18,11 +18,11 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "Sisi He"
   avatar           : "images/avatar.jpg"
-  bio              : "Undergraduate Researcher in HCI | XR · AI"
+  bio              : "Undergraduate Researcher in HCI | Human-AI Interaction · XR"
   location         : "China"
   employer         :
   googlescholar    :
-  email            : "13108400886@163.com"
+  email            : "sisihe914@gmail.com"
   github           : "Sisi-He"
   linkedin         :
   twitter          :
@@ -30,7 +30,7 @@ author:
 # Site Author
 author:
   name             : "Sisi He"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Nanyang Institute of Technology"
   location         : "Beijing, China"
   employer         :

@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate researcher in Virtual Reality Technology at **Nanyang Institute of Technology** (expected Jun. 2026), ranked **1st in my major**. I have been a research intern at the **Future Lab, Tsinghua University**, where I designed and built AI-driven AR systems for everyday repair and sustainability.
 
-My work spans two interconnected threads: **(1) interactive AR/XR systems** that use AI to scaffold hands-on tasks such as repair and repurposing, and **(2) multi-modal AI pipelines** that help researchers make sense of complex, heterogeneous data — from historical photographs to oral history interviews. Across three publications, I have served as the primary technical implementer, independently building complete XR systems and LLM agent pipelines that enabled user studies at top HCI venues.
+My research centers on **Human-AI Collaborative Interaction**, with a focus on **Intelligent User Interfaces for Generative AI** and **XR (Extended Reality)**. I build systems where AI and humans work together fluidly — AR/XR environments that use LLMs and computer vision to scaffold hands-on tasks, and interactive interfaces that make generative AI accessible and legible to everyday users. Across three publications, I have served as the primary technical implementer, independently building complete XR systems and LLM agent pipelines that enabled user studies at top HCI venues.
 
 I am applying for **PhD / MS programs in Human-Computer Interaction** for Fall 2027.
 
@@ -59,7 +59,18 @@ Wenjing Deng, **Sisi He**, Xintong Wu, Y. Wan, Chenzhuo Xiang, Zhihao Yao, Haipe
 </div>
 </div>
 
-- [ReFashionPal: Exploring AI Assistant Embedded in How-to Videos to Support Garment Repurposing](https://doi.org/10.1145/3772363.3798775), Wenjing Deng, Shuzi Yin, Danqi Huang, **Sisi He**, Haipeng Mi, **CHI EA 2026** \| Independently built the full interaction system, website, and LLM agent pipeline.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2026</div><img src='images/refashionpal.png' alt="ReFashionPal" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReFashionPal: Exploring AI Assistant Embedded in How-to Videos to Support Garment Repurposing](https://doi.org/10.1145/3772363.3798775)
+
+Wenjing Deng, Shuzi Yin, Danqi Huang, **Sisi He**, Haipeng Mi
+
+*Extended Abstracts of the ACM CHI Conference on Human Factors in Computing Systems*, 2026
+
+- Independently built the full interaction system, website, and LLM agent pipeline.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.10* &nbsp; 🏆 UIST 2025 **Special Recognition for Sustainability in Posters**
@@ -72,10 +83,10 @@ Wenjing Deng, **Sisi He**, Xintong Wu, Y. Wan, Chenzhuo Xiang, Zhihao Yao, Haipe
 - *2023* &nbsp; 2nd Prize (Provincial), 16th "Challenge Cup"
 
 # 📖 Educations
-- *2022.06 - 2026.06*, B.Eng. in Virtual Reality Technology, Nanyang Institute of Technology, China. **Ranked 1st in major** (GPA: 4.1/5.0)
+- *2022.06 - 2026.06*, B.Eng. in Virtual Reality Technology, Nanyang Institute of Technology, China. **Ranked 1st in major (1/56)**
 
 # 💻 Internships
 - *2026.02 - Present*, Unity Client Development Intern, [Muyan Zhiyu Technology](https://www.muyan-ai.com/), Beijing. Built real-time LLM conversational interaction framework; designed multi-role dialogue scheduling strategy, improving character consistency by 20%.
-- *2025.09 - 2026.02*, Research Assistant, Hong Kong University of Science and Technology (Guangzhou), Guangdong. Led Kinect V2–based motion-sensing XR game development; organized and analyzed user experiments.
+- *2025.09 - 2026.02*, Research Assistant, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangdong. Led Kinect V2–based motion-sensing XR game development; organized and analyzed user experiments.
 - *2025.04 - 2025.09*, AR Development Intern, [Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/), Beijing. Solely built complete AR/XR system for AI-driven repair guidance; co-designed multi-agent LLM pipeline. → CHI 2026, UIST 2025
 - *2024.05 - 2024.08*, VR Development Intern, Weidu Zhijian Technology, Beijing. Optimized VR interaction logic; built custom shaders; integrated Oculus haptic feedback and Meta Store API.
