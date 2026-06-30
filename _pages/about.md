@@ -17,11 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate researcher in Virtual Reality Technology at **Nanyang Institute of Technology** (expected Jun. 2026), ranked **1st in my major**. I have been a research intern at the **Future Lab, Tsinghua University**, where I designed and built AI-driven AR systems for everyday repair and sustainability.
+I am **Sisi He**, a graduate of **Nanyang Institute of Technology (Virtual Reality Technology, ranked 1st out of 56)**. I conduct research with the **Future Lab at Tsinghua University** and the **Hong Kong University of Science and Technology (Guangzhou)**.
 
-My research centers on **Human-AI Collaborative Interaction**, with a focus on **Intelligent User Interfaces for Generative AI** and **XR (Extended Reality)**. I build systems where AI and humans work together fluidly — AR/XR environments that use LLMs and computer vision to scaffold hands-on tasks, and interactive interfaces that make generative AI accessible and legible to everyday users. Across three publications, I have served as the primary technical implementer, independently building complete XR systems and LLM agent pipelines that enabled user studies at top HCI venues.
+**I study how AI systems transition from tool-like interfaces to embodied collaborators in real-world human activity.**
 
-I am applying for **PhD / MS programs in Human-Computer Interaction** for Fall 2027.
+My research focuses on **Human-AI Collaboration in embodied and physical contexts**, investigating how intelligent systems can move beyond screen-based interaction to participate in spatial, procedural, and task-oriented human workflows. I am particularly interested in how AI systems can support perception, reasoning, and action as integrated components of collaborative human activity.
+
+More broadly, I study how **multimodal interaction and generative AI** can be structured to support skilled physical work and human learning. This includes understanding how interaction design can align AI systems with the constraints, uncertainty, and sequential structure of real-world tasks.
+
+My research has resulted in **three peer-reviewed publications in CHI and UIST venues**, where I contributed as the primary technical author. These works examine AI-mediated procedural guidance in AR environments, focusing on how multimodal understanding enables step-by-step task execution in physical contexts.
+
+I am also interested in the behavioral and cognitive implications of AI systems operating in tightly coupled perception–decision–action loops, and how such systems reshape human workflows and task execution.
+
+I am broadly interested in **Human-AI Collaboration, Embodied AI, and Interactive Intelligent Systems**.
 
 # 🔥 News
 - *2026.07*: &nbsp; Currently working on a co-first-author project applying multi-modal AI (object detection, NLP, CLIP, graph modeling) to reconstruct the material culture of Chinese domestic spaces from oral histories and historical photographs. Paper writing in progress.
