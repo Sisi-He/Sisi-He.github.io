@@ -17,19 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Sisi He**, a graduate of **Nanyang Institute of Technology (Virtual Reality Technology, ranked 1st out of 56)**. I conduct research with the **Future Lab at Tsinghua University** and the **Hong Kong University of Science and Technology (Guangzhou)**.
+I am **Sisi He**, a graduate of [Nanyang Institute of Technology](https://www.nyist.edu.cn/) (Virtual Reality Technology). I conduct research with the [Future Lab](http://thfl.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), working at the intersection of **Human-Computer Interaction (HCI)**, **Generative AI**, and **Extended Reality (XR)**.
 
-**I study how AI systems transition from tool-like interfaces to embodied collaborators in real-world human activity.**
+My research explores how AI systems can move from **passive tools to active collaborators** in real-world physical tasks — particularly in domains requiring sequential reasoning, perception, and embodied action. I focus on how interaction design can enable AI to participate in human workflows such as repair, assembly, and procedural learning, and how multimodal models can support step-by-step task execution in AR environments.
 
-My research focuses on **Human-AI Collaboration in embodied and physical contexts**, investigating how intelligent systems can move beyond screen-based interaction to participate in spatial, procedural, and task-oriented human workflows. I am particularly interested in how AI systems can support perception, reasoning, and action as integrated components of collaborative human activity.
+This work has resulted in **3 peer-reviewed publications** at [CHI](https://sigchi.org/) and [UIST](https://uist.acm.org/) venues, where I served as the **primary technical contributor**:
 
-More broadly, I study how **multimodal interaction and generative AI** can be structured to support skilled physical work and human learning. This includes understanding how interaction design can align AI systems with the constraints, uncertainty, and sequential structure of real-world tasks.
+- [AI-generated AR Reassembly Guidance from Disassembly Videos to Scaffold Everyday Repair](https://dl.acm.org/doi/10.1145/3772318.3790494) — **CHI 2026**
 
-My research has resulted in **three peer-reviewed publications in CHI and UIST venues**, where I contributed as the primary technical author. These works examine AI-mediated procedural guidance in AR environments, focusing on how multimodal understanding enables step-by-step task execution in physical contexts.
+- [ReFashionPal: Exploring AI Assistant Embedded in How-to Videos to Support Garment Repurposing](https://doi.org/10.1145/3772363.3798775) — **CHI EA 2026**
 
-I am also interested in the behavioral and cognitive implications of AI systems operating in tightly coupled perception–decision–action loops, and how such systems reshape human workflows and task execution.
+- [AI Extraction of Disassembly Videos for Generating AR Repair Instructions](https://dl.acm.org/doi/10.1145/3746058.3758436) — **UIST 2025**, received **Special Recognition for Sustainability** in Posters
 
-I am broadly interested in **Human-AI Collaboration, Embodied AI, and Interactive Intelligent Systems**.
+Alongside my research, I work as a **Unity developer** and **AI systems engineer**, designing real-time interactive systems with LLM orchestration, streaming dialogue, and state-driven behavior control. This experience has grounded my understanding of how AI systems behave when perception, reasoning, and action are tightly coupled under real-time constraints.
+
+I am actively seeking **PhD opportunities** in **Human-AI Collaboration**, **interactive AI agents**, and **XR + AI systems**. Feel free to reach out at [sisihe914@gmail.com](mailto:sisihe914@gmail.com).
 
 # 🔥 News
 - *2026.07*: &nbsp; Currently working on a co-first-author project applying multi-modal AI (object detection, NLP, CLIP, graph modeling) to reconstruct the material culture of Chinese domestic spaces from oral histories and historical photographs. Paper writing in progress.
