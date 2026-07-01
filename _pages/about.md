@@ -17,29 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Sisi He**, a graduate of [Nanyang Institute of Technology](https://www.nyist.edu.cn/) (Virtual Reality Technology). I conduct research with the [Future Lab](http://thfl.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), working at the intersection of **Human-Computer Interaction (HCI)**, **Generative AI**, and **Extended Reality (XR)**.
+I am **Sisi He**, a researcher and developer studying embodied AI agents for human–AI collaboration in physical-world activities. I graduated from [Nanyang Institute of Technology](https://www.nyist.edu.cn/) (ranked 1st in major, 1/56), and previously conducted research with the [Future Lab](http://thfl.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am currently a Unity Client Development Intern at [Muyan Zhiyu Technology](https://www.muyan-ai.com/) in Beijing.
 
-My research explores how AI systems can move from **passive tools to active collaborators** in real-world physical tasks — particularly in domains requiring sequential reasoning, perception, and embodied action. I focus on how interaction design can enable AI to participate in human workflows such as repair, assembly, and procedural learning, and how multimodal models can support step-by-step task execution in AR environments.
+My research lies at the intersection of **Human–AI Collaboration**, **AI agents**, **Embodied AI**, and **Interactive Intelligent Systems**. I am particularly interested in **AI agents that perceive, reason, and act alongside people in the physical world**.
 
-This work has resulted in **3 peer-reviewed publications** at [CHI](https://sigchi.org/) and [UIST](https://uist.acm.org/) venues, where I served as the **primary technical contributor**:
-
-- [AI-generated AR Reassembly Guidance from Disassembly Videos to Scaffold Everyday Repair](https://dl.acm.org/doi/10.1145/3772318.3790494) — **CHI 2026**
-
-- [ReFashionPal: Exploring AI Assistant Embedded in How-to Videos to Support Garment Repurposing](https://doi.org/10.1145/3772363.3798775) — **CHI EA 2026**
-
-- [AI Extraction of Disassembly Videos for Generating AR Repair Instructions](https://dl.acm.org/doi/10.1145/3746058.3758436) — **UIST 2025**, received **Special Recognition for Sustainability** in Posters
-
-Alongside my research, I work as a **Unity developer** and **AI systems engineer**, designing real-time interactive systems with LLM orchestration, streaming dialogue, and state-driven behavior control. This experience has grounded my understanding of how AI systems behave when perception, reasoning, and action are tightly coupled under real-time constraints.
-
-I am actively seeking **PhD opportunities** in **Human-AI Collaboration**, **interactive AI agents**, and **XR + AI systems**. Feel free to reach out at [sisihe914@gmail.com](mailto:sisihe914@gmail.com).
+My recent work explores how multimodal AI and embodied interaction can support complex human activities such as repair, learning, and material culture reconstruction. Across three CHI/UIST publications, I have served as the **primary technical contributor**, leading the design and implementation of AI-driven interactive systems. I am actively seeking **PhD opportunities** in **Human–AI Collaboration**, **AI agents**, and **embodied interactive systems**. Feel free to reach out at [sisihe914@gmail.com](mailto:sisihe914@gmail.com).
 
 # 🔥 News
-- *2026.07*: &nbsp; Currently working on a co-first-author project applying multi-modal AI (object detection, NLP, CLIP, graph modeling) to reconstruct the material culture of Chinese domestic spaces from oral histories and historical photographs. Paper writing in progress.
+- *2026.07*: &nbsp; Ongoing work on a co-first-author project applying multimodal AI to interpret human activity, memory, and material environments from oral histories and historical photographs.
 - *2026.04*: &nbsp;🎉 Our paper *ReFashionPal* appeared at **CHI EA 2026**!
 - *2026.04*: &nbsp;🎉 Our paper *RePairAR* on AI-generated AR reassembly guidance published at **CHI 2026**!
+- *2026.02*: &nbsp; Started as Unity Client Development Intern at **Muyan Zhiyu Technology** in Beijing.
 - *2025.10*: &nbsp;🏆 Our UIST 2025 poster received the **Special Recognition for Sustainability in Posters** award!
 - *2025.09*: &nbsp; Started as Research Assistant at **HKUST (Guangzhou)**.
 - *2025.04*: &nbsp; Joined **Future Lab, Tsinghua University** as AR Development Intern.
+
+# 🔬 Research Vision
+
+My central research question is: **how can AI agents maintain shared context with humans and coordinate perception, reasoning, and action in open-ended physical activities?**
+
+My long-term goal is to understand how AI agents can participate in human activities that unfold over time. Current AI systems excel at responding to isolated requests, but many real-world activities — repair, learning, caregiving, creative work, scientific discovery — require continuous collaboration between humans and AI.
+
+I am interested in interaction paradigms that enable AI to maintain context, understand human intent, and coordinate perception, reasoning, and action throughout these activities.
+
+<div style="text-align:center; margin: 32px 0;">
+  <img src="images/research-overview.svg" alt="Research Overview" style="max-width:720px; width:100%;"/>
+</div>
 
 # 📝 Publications
 
@@ -52,7 +55,7 @@ Wenjing Deng, Zhihao Yao, Xinhui Kang, Qirui Sun, Xintong Wu, **Sisi He**, Chenz
 
 *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems*, 2026
 
-- Built the complete XR system (Unity + AR Foundation) as sole implementer: spatial alignment, step-card display, component highlighting, and in-context video review — without CAD model dependency.
+- **Contribution:** Primary technical contributor. Led the design and implementation of the complete AR interaction system, enabling AI-generated repair guidance without CAD model dependency. This work explores how disassembly videos can reduce the authoring cost of AR repair guidance for everyday objects.
 </div>
 </div>
 
@@ -65,7 +68,7 @@ Wenjing Deng, **Sisi He**, Xintong Wu, Y. Wan, Chenzhuo Xiang, Zhihao Yao, Haipe
 
 *Adjunct Proceedings of the ACM Symposium on User Interface Software and Technology* (Poster), 2025 &nbsp; 🏆 **Special Recognition for Sustainability in Posters**
 
-- Independently built the AR system; co-designed and implemented the multi-agent AI pipeline; led user study design and data processing.
+- **Contribution:** Primary technical contributor. Designed the AR interaction pipeline, co-developed the multi-agent AI framework, and led user study design. This project investigates how AI agents can extract procedural structure from real-world videos and transform it into situated repair instructions.
 </div>
 </div>
 
@@ -78,7 +81,7 @@ Wenjing Deng, Shuzi Yin, Danqi Huang, **Sisi He**, Haipeng Mi
 
 *Extended Abstracts of the ACM CHI Conference on Human Factors in Computing Systems*, 2026
 
-- Independently built the full interaction system, website, and LLM agent pipeline.
+- **Contribution:** Primary technical contributor. Designed and implemented the interaction system and LLM-based assistance pipeline. This work studies how embedded AI assistance can support procedural learning and creative reuse in how-to video contexts.
 </div>
 </div>
 
@@ -92,11 +95,19 @@ Wenjing Deng, Shuzi Yin, Danqi Huang, **Sisi He**, Haipeng Mi
 - *2023* &nbsp; National Invention Patent: *Method and System for Medical Image Electronic Information Processing*
 - *2023* &nbsp; 2nd Prize (Provincial), 16th "Challenge Cup"
 
-# 📖 Educations
+# 📖 Education
 - *2022.06 - 2026.06*, B.Eng. in Virtual Reality Technology, Nanyang Institute of Technology, China. **Ranked 1st in major (1/56)**
 
 # 💻 Internships
-- *2026.02 - Present*, Unity Client Development Intern, [Muyan Zhiyu Technology](https://www.muyan-ai.com/), Beijing. Built real-time LLM conversational interaction framework; designed multi-role dialogue scheduling strategy, improving character consistency by 20%.
-- *2025.09 - 2026.02*, Research Assistant, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangdong. Led Kinect V2–based motion-sensing XR game development; organized and analyzed user experiments.
-- *2025.04 - 2025.09*, AR Development Intern, [Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/), Beijing. Solely built complete AR/XR system for AI-driven repair guidance; co-designed multi-agent LLM pipeline. → CHI 2026, UIST 2025
+- *2026.02 - Present*, Unity Client Development Intern, [Muyan Zhiyu Technology](https://www.muyan-ai.com/), Beijing. Designed a real-time multi-agent conversational framework for interactive game characters.
+- *2025.09 - 2026.02*, Research Assistant, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangdong. Led development of a Kinect V2-based motion-sensing XR interactive system; designed and conducted user studies.
+- *2025.04 - 2025.09*, AR Development Intern, [Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/), Beijing. Led the design and implementation of the AR interaction system for AI-driven repair guidance; co-developed the multi-agent LLM pipeline. → CHI 2026, UIST 2025
 - *2024.05 - 2024.08*, VR Development Intern, Weidu Zhijian Technology, Beijing. Optimized VR interaction logic; built custom shaders; integrated Oculus haptic feedback and Meta Store API.
+
+# 🔍 Research Interests
+- Human–AI Collaboration
+- AI agents
+- Embodied AI
+- Interactive Intelligent Systems
+- Multimodal Interaction
+- Mixed Reality

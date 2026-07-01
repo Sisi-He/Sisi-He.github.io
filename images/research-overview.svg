@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="Inter, Helvetica, Arial, sans-serif">
+  <rect width="760" height="360" rx="14" fill="#fbfbfa"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0,0 L9,4.5 L0,9 z" fill="#64748b"/>
+    </marker>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <text x="380" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#111827">Embodied Human-AI Collaboration</text>
+  <text x="380" y="58" text-anchor="middle" font-size="12" fill="#64748b">AI agents that maintain shared context and act with people over time</text>
+
+  <rect x="40" y="104" width="160" height="132" rx="10" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="120" y="132" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">Human Activity</text>
+  <text x="120" y="160" text-anchor="middle" font-size="12" fill="#4f46e5">Repair</text>
+  <text x="120" y="184" text-anchor="middle" font-size="12" fill="#4f46e5">Learning</text>
+  <text x="120" y="208" text-anchor="middle" font-size="12" fill="#4f46e5">Creative work</text>
+
+  <line x1="204" y1="170" x2="262" y2="170" stroke="#64748b" stroke-width="1.8" marker-end="url(#arrow)"/>
+
+  <rect x="270" y="92" width="220" height="156" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="380" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#166534">Multimodal Interaction</text>
+  <text x="380" y="150" text-anchor="middle" font-size="12" fill="#15803d">Vision</text>
+  <text x="380" y="174" text-anchor="middle" font-size="12" fill="#15803d">Language</text>
+  <text x="380" y="198" text-anchor="middle" font-size="12" fill="#15803d">Gestures and context</text>
+  <text x="380" y="224" text-anchor="middle" font-size="11" fill="#4b5563">Signals of intent, state, and environment</text>
+
+  <line x1="494" y1="170" x2="552" y2="170" stroke="#64748b" stroke-width="1.8" marker-end="url(#arrow)"/>
+
+  <rect x="560" y="82" width="160" height="176" rx="12" fill="#fff7ed" stroke="#f97316" stroke-width="1.5" filter="url(#softShadow)"/>
+  <text x="640" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#9a3412">AI Agent</text>
+  <text x="640" y="142" text-anchor="middle" font-size="12" fill="#c2410c">Shared context</text>
+  <text x="640" y="166" text-anchor="middle" font-size="12" fill="#c2410c">Human intent</text>
+  <text x="640" y="190" text-anchor="middle" font-size="12" fill="#c2410c">Planning</text>
+  <text x="640" y="214" text-anchor="middle" font-size="12" fill="#c2410c">Situated action</text>
+  <text x="640" y="238" text-anchor="middle" font-size="11" fill="#4b5563">Perceive, reason, act</text>
+
+  <path d="M640 260 C640 306, 120 306, 120 240" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+  <text x="380" y="326" text-anchor="middle" font-size="12" fill="#475569">Continuous collaboration across open-ended physical activities</text>
+</svg>
