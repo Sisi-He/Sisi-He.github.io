@@ -1,0 +1,123 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.55in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{xcolor}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=1.2em, itemsep=2pt, topsep=2pt, parsep=0pt, partopsep=0pt}
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+\newcommand{\entry}[4]{
+  \textbf{#1} \hfill #2\\
+  #3 \hfill \textit{#4}
+}
+\newcommand{\paper}[4]{
+  #1\\
+  #2\\
+  \textit{#3}\\
+  #4
+}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Sisi He}}\\
+    \vspace{2pt}
+    \href{mailto:sisihe914@gmail.com}{sisihe914@gmail.com} \quad
+    \href{https://sisi-he.github.io/}{sisi-he.github.io} \quad
+    \href{https://scholar.google.com/citations?user=iBPi1LYAAAAJ\&hl=zh-CN}{Google Scholar} \quad
+    \href{https://www.linkedin.com/in/\%E6\%80\%9D\%E6\%80\%9D-\%E4\%BD\%95-308819419/}{LinkedIn}
+    \vspace{2pt}\\
+    \textit{Research Interests: Human--AI Collaboration $\cdot$ AI Agents $\cdot$ Embodied AI $\cdot$ Multimodal Interaction}
+\end{center}
+
+\section{Research Summary}
+I study how AI agents can collaborate with people during open-ended physical activities. My research integrates multimodal perception, embodied interaction, and AI agents to build systems that understand human activities and provide adaptive assistance during complex real-world tasks such as repair and learning. More broadly, I am interested in AI systems that maintain shared context with people throughout long-term embodied collaboration.
+
+\section{Education}
+\entry{Nanyang Institute of Technology}{Jun 2022 -- Jun 2026}
+{B.Eng. in Virtual Reality Technology; average score: 90.76/100; ranked 1st/56 (top 2\%)}{Nanyang, China}
+
+\section{Publications}
+
+\paper{\href{https://doi.org/10.1145/3772318.3790494}{\textbf{AI-Generated AR Reassembly Guidance from Disassembly Videos to Scaffold Everyday Repair}}}
+{Wenjing Deng, Zhihao Yao, Xinhui Kang, Qirui Sun, Xintong Wu, \textbf{Sisi He}, Chenzhuo Xiang, Haipeng Mi}
+{CHI 2026}
+{\textbf{Contribution:} Primary technical contributor; designed and implemented the AR interaction system.}
+\vspace{4pt}
+
+\paper{\href{https://doi.org/10.1145/3746058.3758436}{\textbf{AI Extraction of Disassembly Videos for Generating AR Repair Instructions}}}
+{Wenjing Deng, \textbf{Sisi He}, Xintong Wu, Y. Wan, Chenzhuo Xiang, Zhihao Yao, Haipeng Mi}
+{UIST 2025 (Poster)}
+{\textbf{Contribution:} Primary technical contributor; designed the AR interaction pipeline and co-developed the multi-agent AI framework. Received \textbf{Special Recognition for Sustainability in Posters}.}
+\vspace{4pt}
+
+\paper{\href{https://doi.org/10.1145/3772363.3798775}{\textbf{ReFashionPal: Exploring AI Assistant Embedded in How-to Videos to Support Garment Repurposing}}}
+{Wenjing Deng, Shuzi Yin, Danqi Huang, \textbf{Sisi He}, Haipeng Mi}
+{CHI EA 2026}
+{\textbf{Contribution:} Primary technical contributor; designed and implemented the interaction system and LLM-based assistance pipeline.}
+
+\section{Research Experience}
+
+\entry{Multimodal AI for Material Culture Reconstruction}{Jul 2026 -- Present}
+{Research Project}{}
+\begin{itemize}
+    \item Investigates how multimodal AI can interpret human activity, memory, and material environments from oral histories and historical photographs.
+    \item Uses YOLO-World to detect and identify domestic objects in historical photographs as visual evidence for material culture reconstruction.
+    \item Explores how object-level visual evidence can be integrated with oral narratives to reconstruct relationships between people, domestic objects, and lived experiences.
+\end{itemize}
+
+\entry{Future Lab, Tsinghua University}{Apr 2025 -- Sep 2025}
+{Research Intern (AR Systems)}{Beijing, China}
+\begin{itemize}
+    \item Investigated whether procedural knowledge extracted from disassembly videos can replace manually authored AR repair instructions.
+    \item Designed and implemented an AR guidance system that enables procedural repair assistance generated directly from disassembly videos.
+    \item Evaluated the generated AR guidance through iterative system design and user studies.
+\end{itemize}
+
+\entry{Hong Kong University of Science and Technology (Guangzhou)}{Sep 2025 -- Feb 2026}
+{Research Assistant}{Guangzhou, China}
+\begin{itemize}
+    \item Investigated how embodied motion interaction influences engagement in XR experiences.
+    \item Led the development of a Kinect V2-based motion-sensing XR interactive system for embodied interaction and physical user engagement.
+    \item Designed and conducted user studies to evaluate interaction flow, motion-sensing behavior, and participant experience.
+\end{itemize}
+
+\section{Industry and Development Experience}
+
+\entry{Muyan Zhiyu Technology}{Feb 2026 -- Present}
+{Unity Development Intern}{Beijing, China}
+\begin{itemize}
+    \item Designed a real-time multi-agent conversational framework for interactive game characters, connecting LLM-driven dialogue with character behavior logic.
+    \item Implemented Unity-based interaction frameworks supporting responsive LLM-driven character behavior under real-time constraints.
+\end{itemize}
+
+\entry{Weidu Zhijian Technology}{May 2024 -- Aug 2024}
+{VR Development Intern}{Beijing, China}
+\begin{itemize}
+    \item Optimized VR interaction logic and implemented immersive interaction features for Meta/Oculus-based applications.
+    \item Built custom shaders, integrated Oculus haptic feedback, and connected application features with Meta Store APIs.
+\end{itemize}
+
+\section{Selected Honors and Awards}
+\begin{itemize}
+    \item UIST 2025 Special Recognition for Sustainability in Posters, 2025.
+    \item National Inspirational Scholarship, 2025 and 2024.
+    \item 1st Prize, 18th Advanced Robotics and Simulation Competition, National Finals (DF1), 2025.
+    \item 1st Prize, National College Innovation and Entrepreneurship Competition, 2024.
+    \item 2nd Prize, National College Student Computer Ability Competition, 2024.
+    \item 2nd Prize, Provincial ``Challenge Cup'', 2023.
+\end{itemize}
+
+\section{Skills}
+\textbf{Research Methods:} Human--AI interaction design, embodied interaction prototyping, AR/XR system design, user study design, qualitative and quantitative analysis.\\
+\textbf{AI and Systems:} LLM agents, multimodal AI, object detection, procedural knowledge extraction.\\
+\textbf{Programming:} Python, C\#, C/C++.\\
+
+\end{document}
