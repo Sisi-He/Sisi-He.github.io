@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Sisi He**, a researcher and developer studying embodied AI agents for human–AI collaboration in physical-world activities. I graduated from [Nanyang Institute of Technology](https://www.nyist.edu.cn/) (ranked 1st in major, 1/56), and previously conducted research with the [Future Lab](http://thfl.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am currently a Unity Client Development Intern at [Muyan Zhiyu Technology](https://www.muyan-ai.com/) in Beijing.
+I am **Sisi He**, a researcher and developer interested in **Human–Computer Interaction (HCI)**, **Extended Reality (XR)**, and **Human–AI Interaction (HAI)**. I graduated from [Nanyang Institute of Technology](https://www.nyist.edu.cn/) (ranked **1/56 in my major**), with research experience at [Tsinghua University's Future Lab](http://thfl.tsinghua.edu.cn/en/) and [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/). I currently work as a **Full-stack Game Development Engineer** at [Muyan Zhiyu Technology](https://www.muyan-ai.com/) in Beijing, focusing on game development and AI training.
 
-My research lies at the intersection of **Human–AI Collaboration**, **AI agents**, **Embodied AI**, and **Interactive Intelligent Systems**. I am particularly interested in **AI agents that perceive, reason, and act alongside people in the physical world**.
+I explore how **spatial interfaces and embodied interaction** help people understand information, learn skills, and perform physical tasks, and how AI can support these experiences through context-aware guidance.
 
-My recent work explores how multimodal AI and embodied interaction can support complex human activities such as repair, learning, and material culture reconstruction. Across three CHI/UIST publications, I have served as the **primary technical contributor**, leading the design and implementation of AI-driven interactive systems. I am actively seeking **PhD opportunities** in **Human–AI Collaboration**, **AI agents**, and **embodied interactive systems**. Feel free to reach out at [sisihe914@gmail.com](mailto:sisihe914@gmail.com).
+I am seeking **PhD opportunities in HCI and HAI**, particularly in **embodied interaction** and **AI-assisted interactive systems**. If you have relevant opportunities, I would be happy to connect at [sisihe914@gmail.com](mailto:sisihe914@gmail.com).
 
 # 🔥 News
+- *2026*: &nbsp; A **first-author manuscript** is under review at **CHI 2027**.
 - *2026.07*: &nbsp; Ongoing work on a co-first-author project applying multimodal AI to interpret human activity, memory, and material environments from oral histories and historical photographs.
+- *2026.06*: &nbsp; Transitioned to a full-time role as **Full-stack Game Development Engineer at Muyan Zhiyu Technology**, working on **game development and AI training**.
 - *2026.04*: &nbsp;🎉 Our paper *ReFashionPal* appeared at **CHI EA 2026**!
 - *2026.04*: &nbsp;🎉 Our paper *RePairAR* on AI-generated AR reassembly guidance published at **CHI 2026**!
 - *2026.02*: &nbsp; Started as Unity Client Development Intern at **Muyan Zhiyu Technology** in Beijing.
@@ -34,17 +36,23 @@ My recent work explores how multimodal AI and embodied interaction can support c
 
 # 🔬 Research Vision
 
-My central research question is: **how can AI agents maintain shared context with humans and coordinate perception, reasoning, and action in open-ended physical activities?**
+My guiding research question is: **how can XR and embodied interfaces help people understand, learn, and act in everyday settings?**
 
-My long-term goal is to understand how AI agents can participate in human activities that unfold over time. Current AI systems excel at responding to isolated requests, but many real-world activities — repair, learning, caregiving, creative work, scientific discovery — require continuous collaboration between humans and AI.
+I want to investigate how people interact with digital information through **space, movement, and physical objects**, and how interface design shapes usability, learning, and experience.
 
-I am interested in interaction paradigms that enable AI to maintain context, understand human intent, and coordinate perception, reasoning, and action throughout these activities.
+Building on my experience in AR/VR development and motion-sensing interaction, I aim to **design, build, and evaluate XR systems** for practical activities such as repair and learning. AI-assisted guidance is one direction I would like to explore within this broader HCI agenda.
 
 <div style="text-align:center; margin: 32px 0;">
-  <img src="images/research-overview.svg" alt="Research Overview" style="max-width:720px; width:100%;"/>
+  <img src="images/research-overview.svg" alt="HCI and XR research interests: human activities, XR and embodied interaction, and system design and evaluation" style="max-width:720px; width:100%;"/>
 </div>
 
 # 📝 Publications
+
+## Under Review
+
+- **First-author manuscript** — Submitted to **CHI 2027**; currently **under review**.
+
+## Published Work
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/chi2026.png' alt="RePairAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,16 +106,15 @@ Wenjing Deng, Shuzi Yin, Danqi Huang, **Sisi He**, Haipeng Mi
 # 📖 Education
 - *2022.06 - 2026.06*, B.Eng. in Virtual Reality Technology, Nanyang Institute of Technology, China. **Ranked 1st in major (1/56)**
 
-# 💻 Internships
-- *2026.02 - Present*, Unity Client Development Intern, [Muyan Zhiyu Technology](https://www.muyan-ai.com/), Beijing. Designed a real-time multi-agent conversational framework for interactive game characters.
+# 💻 Experience
+- *2026.06 - Present*, **Full-stack Game Development Engineer**, [Muyan Zhiyu Technology](https://www.muyan-ai.com/), Beijing. Full-time role focusing on **full-stack game development and AI training**.
+- *2026.02 - 2026.06*, Unity Client Development Intern, [Muyan Zhiyu Technology](https://www.muyan-ai.com/), Beijing. Designed a real-time multi-agent conversational framework for interactive game characters.
 - *2025.09 - 2026.02*, Research Assistant, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangdong. Led development of a Kinect V2-based motion-sensing XR interactive system; designed and conducted user studies.
 - *2025.04 - 2025.09*, AR Development Intern, [Future Lab, Tsinghua University](https://thfl.tsinghua.edu.cn/), Beijing. Led the design and implementation of the AR interaction system for AI-driven repair guidance; co-developed the multi-agent LLM pipeline. → CHI 2026, UIST 2025
 - *2024.05 - 2024.08*, VR Development Intern, Weidu Zhijian Technology, Beijing. Optimized VR interaction logic; built custom shaders; integrated Oculus haptic feedback and Meta Store API.
 
 # 🔍 Research Interests
-- Human–AI Collaboration
-- AI agents
-- Embodied AI
-- Interactive Intelligent Systems
-- Multimodal Interaction
-- Mixed Reality
+- Human–Computer Interaction (HCI)
+- Extended Reality (AR / VR / MR)
+- Embodied and Spatial Interaction
+- Human–AI Interaction (HAI)

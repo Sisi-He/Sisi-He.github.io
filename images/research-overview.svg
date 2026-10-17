@@ -10,8 +10,8 @@
     </filter>
   </defs>
 
-  <text x="380" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#111827">Embodied Human-AI Collaboration</text>
-  <text x="380" y="58" text-anchor="middle" font-size="12" fill="#64748b">AI agents that maintain shared context and act with people over time</text>
+  <text x="380" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#111827">Human–Computer Interaction &amp; XR</text>
+  <text x="380" y="58" text-anchor="middle" font-size="12" fill="#64748b">Designing and evaluating interfaces for learning and physical activities</text>
 
   <rect x="40" y="104" width="160" height="132" rx="10" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#softShadow)"/>
   <text x="120" y="132" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">Human Activity</text>
@@ -22,22 +22,22 @@
   <line x1="204" y1="170" x2="262" y2="170" stroke="#64748b" stroke-width="1.8" marker-end="url(#arrow)"/>
 
   <rect x="270" y="92" width="220" height="156" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5" filter="url(#softShadow)"/>
-  <text x="380" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#166534">Multimodal Interaction</text>
-  <text x="380" y="150" text-anchor="middle" font-size="12" fill="#15803d">Vision</text>
-  <text x="380" y="174" text-anchor="middle" font-size="12" fill="#15803d">Language</text>
-  <text x="380" y="198" text-anchor="middle" font-size="12" fill="#15803d">Gestures and context</text>
-  <text x="380" y="224" text-anchor="middle" font-size="11" fill="#4b5563">Signals of intent, state, and environment</text>
+  <text x="380" y="122" text-anchor="middle" font-size="14" font-weight="700" fill="#166534">XR &amp; Embodied Interaction</text>
+  <text x="380" y="150" text-anchor="middle" font-size="12" fill="#15803d">Spatial guidance</text>
+  <text x="380" y="174" text-anchor="middle" font-size="12" fill="#15803d">Body movement</text>
+  <text x="380" y="198" text-anchor="middle" font-size="12" fill="#15803d">Physical objects</text>
+  <text x="380" y="224" text-anchor="middle" font-size="11" fill="#4b5563">Design and implement interfaces</text>
 
   <line x1="494" y1="170" x2="552" y2="170" stroke="#64748b" stroke-width="1.8" marker-end="url(#arrow)"/>
 
   <rect x="560" y="82" width="160" height="176" rx="12" fill="#fff7ed" stroke="#f97316" stroke-width="1.5" filter="url(#softShadow)"/>
-  <text x="640" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#9a3412">AI Agent</text>
-  <text x="640" y="142" text-anchor="middle" font-size="12" fill="#c2410c">Shared context</text>
-  <text x="640" y="166" text-anchor="middle" font-size="12" fill="#c2410c">Human intent</text>
-  <text x="640" y="190" text-anchor="middle" font-size="12" fill="#c2410c">Planning</text>
-  <text x="640" y="214" text-anchor="middle" font-size="12" fill="#c2410c">Situated action</text>
-  <text x="640" y="238" text-anchor="middle" font-size="11" fill="#4b5563">Perceive, reason, act</text>
+  <text x="640" y="112" text-anchor="middle" font-size="14" font-weight="700" fill="#9a3412">Design &amp; Evaluation</text>
+  <text x="640" y="142" text-anchor="middle" font-size="12" fill="#c2410c">Interaction design</text>
+  <text x="640" y="166" text-anchor="middle" font-size="12" fill="#c2410c">System prototyping</text>
+  <text x="640" y="190" text-anchor="middle" font-size="12" fill="#c2410c">User studies</text>
+  <text x="640" y="214" text-anchor="middle" font-size="12" fill="#c2410c">AI-assisted guidance</text>
+  <text x="640" y="238" text-anchor="middle" font-size="11" fill="#4b5563">Understand user experience</text>
 
   <path d="M640 260 C640 306, 120 306, 120 240" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
-  <text x="380" y="326" text-anchor="middle" font-size="12" fill="#475569">Continuous collaboration across open-ended physical activities</text>
+  <text x="380" y="326" text-anchor="middle" font-size="12" fill="#475569">Design, build, and evaluate interactive systems in context</text>
 </svg>
